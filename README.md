@@ -7,6 +7,7 @@ DevNews is an architectural data aggregation dashboard engineered with React. It
 ---------------------------------------------------
 ![](devn.png)
 ##  Technical Highlights
+-----------------------------------------------------
 *  **Compound Multi-Tier Query Filtering:** Processes simultaneous category button filters and text inputs concurrently inside unified component evaluation functions.
 *  **Persistent Workspace Persistence:** Handles live data transformations into localStorage browser indices to preserve selected reading stacks seamlessly.
 
