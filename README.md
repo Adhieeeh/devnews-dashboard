@@ -6,6 +6,7 @@ DevNews is an architectural data aggregation dashboard engineered with React. It
 ## Preview
 ---------------------------------------------------
 ![](devn.png)
+
 ##  Technical Highlights
 -----------------------------------------------------
 *  **Compound Multi-Tier Query Filtering:** Processes simultaneous category button filters and text inputs concurrently inside unified component evaluation functions.
@@ -15,3 +16,4 @@ DevNews is an architectural data aggregation dashboard engineered with React. It
 ----------------------------------------------
 1. Install packages: `npm install`
 2. Run ecosystem: `npm run dev`
+--------------------------------------------------
