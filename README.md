@@ -12,5 +12,6 @@ DevNews is an architectural data aggregation dashboard engineered with React. It
 *  **Persistent Workspace Persistence:** Handles live data transformations into localStorage browser indices to preserve selected reading stacks seamlessly.
 
 ##  Execution Instructions
+----------------------------------------------
 1. Install packages: `npm install`
 2. Run ecosystem: `npm run dev`
