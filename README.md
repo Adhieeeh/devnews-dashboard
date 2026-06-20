@@ -1,16 +1,11 @@
-# React + Vite
+#  DevNews — Technical News Indexing Feed & Bookmark System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+DevNews is an architectural data aggregation dashboard engineered with React. It provides real-time client-side text query sorting indices across multi-tier dataset groups, integrated with an asynchronous `localStorage` synchronization ledger to cache user link bookmarks across browser updates safely.
 
-Currently, two official plugins are available:
+##  Technical Highlights
+*  **Compound Multi-Tier Query Filtering:** Processes simultaneous category button filters and text inputs concurrently inside unified component evaluation functions.
+*  **Persistent Workspace Persistence:** Handles live data transformations into localStorage browser indices to preserve selected reading stacks seamlessly.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+##  Execution Instructions
+1. Install packages: `npm install`
+2. Run ecosystem: `npm run dev`
